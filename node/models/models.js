@@ -19,7 +19,7 @@ const ModeloPelícula = database.define('Película',{
 //console.log(typeof(ModeloPelícula));
 
 
-module.exports.ModeloPelícula = ModeloPelícula
+module.exports.ModeloPelícula = ModeloPelícula;
 
 
 /*

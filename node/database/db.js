@@ -1,4 +1,4 @@
-const { Sequelize, Model } = require("sequelize");
+const { Sequelize } = require("sequelize");
 
 const database = new Sequelize('películas','root','Brunomysql123',{
   host:'localhost',
